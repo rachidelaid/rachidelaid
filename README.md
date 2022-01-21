@@ -21,6 +21,7 @@
 
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor) &nbsp;
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor) &nbsp;
+![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor) &nbsp;
 
 ### Tools. 🛠
 
