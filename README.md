@@ -29,7 +29,7 @@
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor) &nbsp;
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)&nbsp;
 ![Vue](https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor)&nbsp;
-![Svelte](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/638px-Svelte_Logo.svg.png)&nbsp;
+![Svelte](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/50px-Svelte_Logo.svg.png)&nbsp;
 
 <h3 align="center">GitHub Statistics:</h3>
 <p align="center">
