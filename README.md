@@ -28,7 +28,7 @@
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor) &nbsp;
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor) &nbsp;
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)&nbsp;
-![Redux](https://avatars.githubusercontent.com/u/13142323?s=40&v=4)&nbsp;
+![Redux](https://avatars.githubusercontent.com/u/13142323?s=50&v=4)&nbsp;
 ![Vue](https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor)&nbsp;
 ![Svelte](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/40px-Svelte_Logo.svg.png)&nbsp;
 
