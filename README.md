@@ -53,4 +53,7 @@ src="https://img.shields.io/badge/-Outlook-1DA1F2?style=for-the-badge&logo=Outlo
 <a target="_blank"
 href="https://twitter.com/rachidelaid1"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank"
+href="https://angel.co/u/rachidelaid"><img
+src="https://img.shields.io/badge/-AngelList-1DA1F2?style=for-the-badge&logo=Outlook&logoColor=white"></img></a>
 </div>
