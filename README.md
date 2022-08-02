@@ -51,7 +51,7 @@ src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Link
 href="mailto:rachidelaid@outlook.com"><img
 src="https://img.shields.io/badge/-Outlook-1DA1F2?style=for-the-badge&logo=Outlook&logoColor=white"></img></a>
 <a target="_blank"
-href="https://twitter.com/rachidelaid1"><img
+href="https://twitter.com/elaidrachid"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank"
 href="https://angel.co/u/rachidelaid"><img
