@@ -22,6 +22,7 @@
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor) &nbsp;
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor) &nbsp;
 ![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor) &nbsp;
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor) &nbsp;
 
 ### Tools. 🛠
 
@@ -31,6 +32,8 @@
 ![Redux](https://avatars.githubusercontent.com/u/13142323?s=50&v=4)&nbsp;
 ![Vue](https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor)&nbsp;
 ![Svelte](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/40px-Svelte_Logo.svg.png)&nbsp;
+![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)&nbsp;
+![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)&nbsp;
 
 <h3 align="center">GitHub Statistics:</h3>
 <p align="center">
